@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/G6Serveur"/>
+	<classpathentry kind="lib" path="C:/wildfly-30.0.0.Final/bin/client/jboss-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/byte-buddy-1.14.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/hibernate-core-6.4.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fatima Ezzahra/Downloads/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
